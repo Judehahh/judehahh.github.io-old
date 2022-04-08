@@ -54,10 +54,8 @@ header:
 docs-en:
   - title:      开始
     children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
+      - title:  主页
+        url:    /index.html
   - title:      归档
     children:
       - title:  归档
