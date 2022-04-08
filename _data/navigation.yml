@@ -1,4 +1,7 @@
 header:
+  - title:  主页
+    url:    /index.html
+
   - titles:
       # @start locale config
       en      : &EN       Archive
