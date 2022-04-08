@@ -59,6 +59,10 @@ docs-en:
       - title:  Structure
         url:    /docs/en/structure
   - title:      归档
-    url:        /archive.html
+    children:
+      - title:  归档
+        url:    /archive.html
   - title:      关于我
-    url:        /about.html
+    children:
+      - title:  Github
+        url:    https://github.com/Judehahh
